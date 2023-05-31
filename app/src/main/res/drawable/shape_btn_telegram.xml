@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/blue1"/>
+            <stroke
+                android:color="#FFFFFF"
+                android:width="2dp"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/telegram_icon">
+        <rotate
+            android:fromDegrees="0"
+            android:toDegrees="180"
+            android:pivotX="50%"
+            android:pivotY="50%"/>
+    </item>
+</layer-list>

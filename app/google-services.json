@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189813377371",
+    "project_id": "udarnik-572fa",
+    "storage_bucket": "udarnik-572fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189813377371:android:90965d4267eb4fb02f727e",
+        "android_client_info": {
+          "package_name": "com.example.udarnik_alp01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189813377371-b4g9b9s667gsj67ep5dfbqnk64tq23ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_K3G8l7WVYrmmFgg3BL3tThtUCFFIc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189813377371-b4g9b9s667gsj67ep5dfbqnk64tq23ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
